@@ -16,3 +16,4 @@ Build a Viterbi decoder for an LSTM named-entity recognition model (NER). Also, 
 
 ### 4. Cross-Language Word Embeddings - 
 Judge the usefulness of pairwise distances between words in the embedding space, then compare and evaluate the English and other languages embeddings by computing the proportion of English articles whose corresponding French article is also the closest word in embedding space. 
+
